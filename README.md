@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">DevOps Engineer | Site Reliability Engineer (SRE) | AWS Certified Solutions Architect – Professional</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishek-j-choudhary-2232a8202" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abhishek-j-choudhary" /></a>
+  <a href="https://linkedin.com/in/abhishek-j-choudhary-2232a8202" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abhishek-j-choudhary" /></a>
   <a href="mailto:abhishek.sde.official@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -107,8 +107,8 @@ With over 2 years of hands-on experience in cloud infrastructure automation, Git
 
 ### 🏆 Certifications
 
-- 🥇 **AWS Certified Solutions Architect – Professional** (SAP-C02)
-- 🥈 **AWS Certified Cloud Practitioner** (CLF-C02)
+- 🥇 <a href="https://www.credly.com/badges/cbe924f3-ae6b-4af8-ad99-f0886dc97b12/public_url" target="_blank">**AWS Certified Solutions Architect – Professional** (SAP-C02) - Credly</a>
+- 🥈 <a href="https://www.credly.com/badges/28270ea0-92ab-4ad3-95fb-fc9c8a39e74c/public_url" target="_blank">**AWS Certified Cloud Practitioner** (CLF-C02) - Credly</a>
 
 ---
 
