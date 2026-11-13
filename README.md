@@ -1,119 +1,155 @@
-
-<!---
-- 👋 Hi, I’m @AbhishekChoudhary23
-- 👀 I’m interested in coding
-- 🌱 I’m skilled in Web Development and DSA
-- 📫 Reach me Through LinkedIn : https://www.linkedin.com/in/abhishek-choudhary-2232a8202/
-- 🤓 Find more about me from my protfolio : https://my-developer-portfolio-ac.netlify.app/
-AbhishekChoudhary23/AbhishekChoudhary23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<h1 align="center">Hi there, I'm Abhishek Choudhary 👋</h1>
-<h3 align="center">DevOps Engineer | Site Reliability Engineer (SRE) | AWS Certified Solutions Architect – Professional</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=210&section=header&text=Abhishek%20Choudhary&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=DevOps%20%2F%20Site%20Reliability%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="Abhishek Choudhary, DevOps / Site Reliability Engineer" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishek-j-choudhary-2232a8202" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abhishek-j-choudhary" /></a>
-  <a href="mailto:abhishek.sde.official@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/AbhishekChoudhary23">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=AWS+Certified+Solutions+Architect+%E2%80%93+Professional;Terraform+%C2%B7+Kubernetes+(EKS)+%C2%B7+ArgoCD+%C2%B7+Python;Reliability%2C+automation+and+less+manual+toil" alt="AWS Certified Solutions Architect – Professional. Terraform, Kubernetes (EKS), ArgoCD, Python." />
+  </a>
 </p>
 
----
-
-### 👨‍💻 About Me
-With over 2 years of hands-on experience in cloud infrastructure automation, GitOps-driven CI/CD, and SRE practices, I specialize in building highly available, scalable, and secure systems.
-- 🚀 **Core Strengths:** Kubernetes orchestration, Terraform IaC, and vendor-neutral observability.
-- ⚡ **Impact:** Consistently driving system reliability, achieving 30% faster deployments and 80% RTO reduction via Pilot Light DR.
-- 🔭 Currently working as a **DevOps Engineer** at **Ncompass Techstudios Pvt. Ltd.**
-- 🎓 B.E. in Computer and Electronics Engineering from MBM University Jodhpur.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Cloud & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-**IaC & Config Management**
-<p>
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/AWS_CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation"/>
-</p>
-
-**CI/CD & GitOps**
-<p>
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-</p>
-
-**Observability & Monitoring**
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" alt="EFK Stack"/>
-</p>
-
-**Programming & Scripting**
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
----
-
-### 💼 Experience
-
-<details>
-<summary><b>DevOps Engineer | Ncompass Techstudios Pvt. Ltd. (Oct 2024 – Present)</b></summary>
-<br>
-
-- ☁️ **Infrastructure Setup:** Orchestrated AWS infrastructure across 6+ accounts using Terraform and CloudFormation, reducing provisioning time by 50% with drift-free state management.
-- 🚀 **CI/CD Migration:** Migrated pipelines to AWS CodePipeline, cutting deployment time by 30% and eliminating manual release errors across API Gateway microservices.
-- 🗄️ **Database Management:** Led end-to-end planning, testing, and execution of RDS MySQL major version upgrades across 25+ databases and 10+ accounts with zero data loss.
-- 🛡️ **Disaster Recovery:** Implemented Pilot Light DR with automated failover testing, achieving 99.99% data integrity and reducing RTO by 80%.
-- ⚠️ **Incident Response:** Mitigated AWS US-EAST-1 multi-service outage impacting 140+ services, executing WAF isolation and circuit-breaking to restore production within 10 hours.
-- 🔄 **Automation:** Automated tenant onboarding via AWS Step Functions, compressing a 7-hour manual process (20+ steps) into 25 minutes.
-- 🔒 **Security & Identity:** Integrated Okta with Amazon Cognito; enforced least-privilege IAM, MFA, and quarterly CVE patching for SOC2 compliance.
-- 📊 **Observability:** Established centralized observability with CloudWatch and Prometheus, reducing MTTD by 40% and defining SLOs for production services.
-- 🌐 **Network Optimization:** Optimized ALB routing and SNI configurations across 30+ tenant sites, reducing API latency by 35%.
-</details>
-
----
-
-### 🚀 Featured Projects
-
-<details>
-<summary><b>Production-grade GitOps platform on AWS</b></summary>
-<br>
-
-- **Hybrid Infrastructure & IaC:** Architected end-to-end Kubernetes environments—bootstrapping local Minikube for dev testing and scaling to AWS EKS for production using CloudFormation (EKS) and Terraform (VPC, IAM policies, ECR).
-- **Cloud Ingress & Domain Management:** Deployed AWS Load Balancer Controller to manage ALB Ingress rules, integrating ACM for HTTPS encryption and Route 53 to route domain traffic to microservices.
-- **Declarative GitOps Management:** Leveraged ArgoCD’s App-of-Apps pattern to manage multi-service deployments across namespaces, ensuring automated synchronization and zero configuration drift between Git and EKS.
-- **Dual-Stage CI Pipeline:** Built CI automation with GitHub Actions (dev validation) and Jenkins (production-gated builds pushed to ECR) before triggering continuous deployment via ArgoCD.
-- **Observability & SLO Monitoring:** Deployed a full Prometheus and Grafana monitoring stack with custom dashboards to track cluster health, ALB latency, and pod resource utilization against SLOs.
-</details>
-
----
-
-### 🏆 Certifications
-
-- 🥇 <a href="https://www.credly.com/badges/cbe924f3-ae6b-4af8-ad99-f0886dc97b12/public_url" target="_blank">**AWS Certified Solutions Architect – Professional** (SAP-C02) - Credly</a>
-- 🥈 <a href="https://www.credly.com/badges/28270ea0-92ab-4ad3-95fb-fc9c8a39e74c/public_url" target="_blank">**AWS Certified Cloud Practitioner** (CLF-C02) - Credly</a>
-
----
-
-<!-- REPLACE YOUR_GITHUB_USERNAME BELOW WITH YOUR ACTUAL GITHUB USERNAME TO ACTIVATE STATS -->
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AbhishekChoudhary23&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekChoudhary23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://linkedin.com/in/abhishek-j-choudhary-2232a8202"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://abhishekchoudhary-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=netlify&logoColor=06B6D4" alt="Portfolio" /></a>
+  <a href="https://www.credly.com/badges/cbe924f3-ae6b-4af8-ad99-f0886dc97b12/public_url"><img src="https://img.shields.io/badge/AWS_SA_Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Professional" /></a>
+</p>
+
+<br />
+
+## <img src="https://img.shields.io/badge/01-06B6D4?style=flat-square" alt="01" /> About
+
+DevOps Engineer with 2 years running production AWS workloads across 10+ accounts. I work in Terraform, Kubernetes (EKS), ArgoCD and Python to improve reliability and remove manual toil. Currently at **Ncompass Techstudios Pvt. Ltd.** Based in India, open to Hyderabad, relocation or remote roles.
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h2>80%</h2>
+      <sub>lower disaster-recovery RTO<br />with Pilot Light DR</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>7 h → 25 min</h2>
+      <sub>tenant onboarding<br />with AWS Step Functions</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>25+</h2>
+      <sub>RDS MySQL databases upgraded<br />with zero downtime</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>40%</h2>
+      <sub>lower Mean Time to Detect<br />with Prometheus and Grafana</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## <img src="https://img.shields.io/badge/02-06B6D4?style=flat-square" alt="02" /> Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AbhishekChoudhary23/aws-kubernetes-project">aws-kubernetes-project</a></h3>
+      <p>AWS EKS platform. Terraform modules for VPC, IAM, ECR, EKS and CodePipeline, with ArgoCD and AWS Load Balancer Controller install scripts.</p>
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" alt="EKS" />
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AbhishekChoudhary23/DevOps-Observability-app">DevOps-Observability-app</a></h3>
+      <p>GitOps CI/CD pipeline. GitHub Actions builds dev, Jenkins builds gated production, ArgoCD deploys, Prometheus and Grafana monitor.</p>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AbhishekChoudhary23/DevOps-Observability-k8s-gitops-manifest">k8s-gitops-manifest</a></h3>
+      <p>The manifest repository ArgoCD syncs from. App-of-Apps root, deployments, ingress and a Prometheus ServiceMonitor.</p>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AbhishekChoudhary23/local-aws-environment">local-aws-environment</a></h3>
+      <p>A local AWS environment on LocalStack. Terraform modules for VPC, security, KMS and EKS, with a remote-state bootstrap script.</p>
+      <img src="https://img.shields.io/badge/LocalStack-4D29B4?style=flat-square" alt="LocalStack" />
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## <img src="https://img.shields.io/badge/03-06B6D4?style=flat-square" alt="03" /> Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,jenkins,prometheus,grafana,elasticsearch&perline=10" alt="AWS, Kubernetes, Docker, Terraform, Ansible, GitHub Actions, Jenkins, Prometheus, Grafana, Elasticsearch" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,bash,nodejs,js,mysql,postgres,redis,linux,git,nginx&perline=10" alt="Python, Bash, Node.js, JavaScript, MySQL, PostgreSQL, Redis, Linux, Git, NGINX" />
+</p>
+
+<details>
+<summary><b>Full skill list</b></summary>
+<br />
+
+| Area | Tools |
+| --- | --- |
+| Cloud (AWS) | EKS, ECS, EC2, Lambda, RDS, VPC, IAM, Cognito, WAF, Step Functions, CloudFront, ALB, Route 53, ECR, S3, CloudWatch |
+| Infrastructure as Code | Terraform, AWS CloudFormation, Ansible |
+| Containers and GitOps | Docker, Kubernetes, Helm, ArgoCD |
+| CI/CD | GitHub Actions, Jenkins, AWS CodePipeline |
+| Observability and SRE | Prometheus, Grafana, ELK/EFK, CloudWatch, SLIs/SLOs, incident response, disaster recovery |
+| Scripting and databases | Python (Boto3), Bash, JavaScript/Node.js, SQL, MySQL, PostgreSQL, Redis |
+| Identity and security | IAM policy design, Okta, Amazon Cognito (OIDC), CVE patching, Linux administration |
+
+</details>
+
+<br />
+
+## <img src="https://img.shields.io/badge/04-06B6D4?style=flat-square" alt="04" /> Experience
+
+**DevOps Engineer · Ncompass Techstudios Pvt. Ltd.** <br />
+<sub>Oct 2024 – Present · Remote</sub>
+
+> **Incident response.** Led the incident bridge during the October 2025 AWS us-east-1 outage (140+ AWS services down). Chose a controlled shutdown with a customer-facing maintenance page over DR failover, restored production within 10 hours, and authored the incident report.
+
+<details>
+<summary><b>More from this role</b></summary>
+<br />
+
+- **Infrastructure automation:** Provisioned AWS infrastructure across 6+ accounts with Terraform and CloudFormation. Added remote state and drift detection, which cut provisioning time by 50%.
+- **Database reliability:** Ran zero-downtime RDS MySQL major-version upgrades on 25+ databases across 10+ accounts. Boto3 scripts validated every backup before cutover.
+- **Disaster recovery:** Designed and tested a Pilot Light DR strategy with automated failover, reducing Recovery Time Objective (RTO) by 80%.
+- **CI/CD:** Migrated legacy release workflows for API Gateway microservices to AWS CodePipeline and GitHub Actions, cutting deployment time by 30% and removing manual configuration errors.
+- **Toil reduction:** Automated multi-tenant onboarding with AWS Step Functions and Python/Bash, turning a 7-hour manual workflow into a 25-minute pipeline.
+- **Observability:** Built monitoring with Prometheus, Grafana and CloudWatch, defined SLIs/SLOs for production services, and reduced Mean Time to Detect (MTTD) by 40%.
+- **Identity and operations:** Integrated Okta with Amazon Cognito over OIDC for shared user identity. Run off-hours maintenance including RDS cleanups, engine upgrades and EC2 AMI patching.
+
+</details>
+
+<br />
+
+## <img src="https://img.shields.io/badge/05-06B6D4?style=flat-square" alt="05" /> Certifications and education
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/cbe924f3-ae6b-4af8-ad99-f0886dc97b12/public_url"><b>AWS Certified Solutions Architect – Professional</b></a>
+      <br /><sub>SAP-C02 · verify on Credly</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/28270ea0-92ab-4ad3-95fb-fc9c8a39e74c/public_url"><b>AWS Certified Cloud Practitioner</b></a>
+      <br /><sub>CLF-C02 · verify on Credly</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>B.E. Computer and Electronics Engineering</b>
+      <br /><sub>MBM University, Jodhpur · 2020 – 2024</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=110&section=footer" alt="" width="100%" />
 </p>
